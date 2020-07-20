@@ -5,5 +5,7 @@ export default {
   install (Vue) {
     Vue.use(VhBtn)
     Vue.use(VhInput)
-  }
+  },
+  VhBtn,
+  VhInput
 }
